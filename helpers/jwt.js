@@ -32,4 +32,4 @@ async function isRevoked(req, payload, done){
 }
 
 
-module.exports = authJwt();
+module.exports = authJwt;
